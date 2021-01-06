@@ -1,1 +1,1 @@
-# Lerning GIT
+# Randomized Greetings
